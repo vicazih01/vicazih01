@@ -1,7 +1,75 @@
-## Hi there 👋
+<h1>Hi, I'm Victor! <br/><a href="https://github.com/vicazih01">Data Scientist</a>, <a href="linkedin.com/in/victor-azih-6aa88921b/">Business Analyst</a>, <a href="https://github.com/vicazih01">Data Analyst</a></h1>
+
+<h2>👨‍💻 Business Analyst Projects:</h2>
+
+- <b> Supply Chain Performance Analysis (PowerBI)</b>
+  - Collected and cleaned logistics and inventory data
+ 
+  - Built interactive dashboards in Power BI
+ 
+  - Tracked KPIs like delivery delays, inventory turnover, and warehouse efficiency
+ 
+  - Identified bottlenecks and inefficiencies in operations
+ 
+  - Suggested improvements to optimize performance
+ 
+  - Tools: Power BI, Excel, SQL
+
+- <b>Email Marketing Analytics Project (Tableau)</b>
+  - Analyzed campaign data to track open rates, click-through rates, and engagement
+  
+  - Segmented audience to evaluate targeting effectiveness
+  
+  - Found best-performing email timings and content themes
+  
+  - Presented insights through dashboards and visualizations
+  
+  - Tools: Tableau, Excel, SQL, Google Analytics (if applicable)
+
+
+  <h2>👨‍💻 Data Analyst Projects:</h2>
+- <b>MNIST Fashion Classification</b>
+  - Used TensorFlow and Python to build a Convolutional Neural Network (CNN)
+    
+  - Trained on 60,000 fashion images to classify clothing types
+  
+  - Applied dropout and batch normalization for regularization
+  
+  - Tuned hyperparameters to improve accuracy
+  
+  - Achieved 94% training and 89% test accuracy
+  
+  - Tools: TensorFlow, Python, NumPy, Matplotlib
+
+- <b>End to End Housing Price Prediction Machine Learning</b>
+  - Cleaned data and handled missing values and outliers
+  
+  - Performed feature engineering and exploratory data analysis (EDA)
+  
+  - Tested Linear Regression, Random Forest, and Gradient Boosting models
+  
+  - Used Grid Search and cross-validation to fine-tune models
+  
+  - Evaluated performance using RMSE and R²
+  
+  - Tools: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
+
+
+<h2>📺 Business Analyst Dashboard Video Presentation </h2>
+
+- [Air BNB Price Regression](https://youtu.be/ay5VJ5Jxs0Y?si=lH1DBY2oRNegFrTq)
+
+
+<h2> 🤳 Connect with me:</h2>
+
+<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<
+
+
+[linkedin]: [https://www.linkedin.com/in/victor-azih-6aa88921b/]
 
 <!--
-**vicazih01/vicazih01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
