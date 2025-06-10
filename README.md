@@ -15,18 +15,7 @@ I'm a **Data & Business Analyst** who loves turning messy data into clear insigh
 
 <h2>👨‍💻 Business Analyst Projects:</h2>
 
-- <b> Supply Chain Performance Analysis (PowerBI)</b>
-  - Collected and cleaned logistics and inventory data
- 
-  - Built interactive dashboards in Power BI
- 
-  - Tracked KPIs like delivery delays, inventory turnover, and warehouse efficiency
- 
-  - Identified bottlenecks and inefficiencies in operations
- 
-  - Suggested improvements to optimize performance
- 
-  - Tools: Power BI, Excel, SQL
+- [Supply Chain Performance Analysis (Tableau)](https://github.com/vicazih01/Supply-Chain-Performance-Analysis-Tableau-)
 
 - <b>Email Marketing Analytics Project (Tableau)</b>
   - Analyzed campaign data to track open rates, click-through rates, and engagement
