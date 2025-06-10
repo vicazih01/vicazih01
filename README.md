@@ -1,5 +1,18 @@
 <h1>Hi, I'm Victor! <br/><a href="https://github.com/vicazih01">Data Scientist</a>, <a href="linkedin.com/in/victor-azih-6aa88921b/">Business Analyst</a>, <a href="https://github.com/vicazih01">Data Analyst</a></h1>
 
+I'm a **Data & Business Analyst** who loves turning messy data into clear insights. Think dashboards, strategy, and storytelling — all rolled into one.
+
+### 🛠️ My Tools:
+- **Languages**: Python, SQL, R  
+- **Tools**: Power BI, Tableau, Excel  
+- **Specialties**: Data cleaning, visualization, forecasting, insights
+
+### 💡 Quick Facts:
+- Automating boring stuff is my hobby  
+- Big fan of clean code, sharp visuals, and smarter decisions  
+- Powered by anime, football, history, dance, and gym 🔥⚡
+
+
 <h2>👨‍💻 Business Analyst Projects:</h2>
 
 - <b> Supply Chain Performance Analysis (PowerBI)</b>
@@ -27,7 +40,7 @@
   - Tools: Tableau, Excel, SQL, Google Analytics (if applicable)
 
 
-  <h2>👨‍💻 Data Analyst Projects:</h2>
+  <h2>👨‍💻 Data Science Projects:</h2>
 - <b>MNIST Fashion Classification</b>
   - Used TensorFlow and Python to build a Convolutional Neural Network (CNN)
     
