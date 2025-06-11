@@ -19,47 +19,8 @@ I'm a **Data & Business Analyst** who loves turning messy data into clear insigh
 - [Excel Project Summary](https://github.com/vicazih01/Excel-Financial-Analysis-Project/blob/main/Excel%20Project%20Summary.md)
 - [Marketing Analysis Dashboard (Power BI)](https://github.com/vicazih01/Marketing-Campaign-Analytics-PowerBI/blob/main/marketing-analysis-dashboard.md)
 
+ <h2>👨‍💻 Data Science Projects:</h2>
 
-
-
-- <b>Email Marketing Analytics Project (Tableau)</b>
-  - Analyzed campaign data to track open rates, click-through rates, and engagement
-  
-  - Segmented audience to evaluate targeting effectiveness
-  
-  - Found best-performing email timings and content themes
-  
-  - Presented insights through dashboards and visualizations
-  
-  - Tools: Tableau, Excel, SQL, Google Analytics (if applicable)
-
-
-  <h2>👨‍💻 Data Science Projects:</h2>
-- <b>MNIST Fashion Classification</b>
-  - Used TensorFlow and Python to build a Convolutional Neural Network (CNN)
-    
-  - Trained on 60,000 fashion images to classify clothing types
-  
-  - Applied dropout and batch normalization for regularization
-  
-  - Tuned hyperparameters to improve accuracy
-  
-  - Achieved 94% training and 89% test accuracy
-  
-  - Tools: TensorFlow, Python, NumPy, Matplotlib
-
-- <b>End to End Housing Price Prediction Machine Learning</b>
-  - Cleaned data and handled missing values and outliers
-  
-  - Performed feature engineering and exploratory data analysis (EDA)
-  
-  - Tested Linear Regression, Random Forest, and Gradient Boosting models
-  
-  - Used Grid Search and cross-validation to fine-tune models
-  
-  - Evaluated performance using RMSE and R²
-  
-  - Tools: Python, Pandas, Scikit-learn, Matplotlib, Seaborn
 
 
 <h2>📺 Business Analyst Dashboard Video Presentation </h2>
