@@ -17,6 +17,8 @@ I'm a **Data & Business Analyst** who loves turning messy data into clear insigh
 
 - [Supply Chain Performance Analysis (Tableau)](https://github.com/vicazih01/Supply-Chain-Performance-Analysis-Tableau-/blob/main/supply-chain-performance.md)
 - [Excel Project Summary](https://github.com/vicazih01/Excel-Financial-Analysis-Project/blob/main/Excel%20Project%20Summary.md)
+- [Marketing Analysis Dashboard (Power BI)](https://github.com/vicazih01/Marketing-Campaign-Analytics-PowerBI/blob/main/marketing-analysis-dashboard.md)
+
 
 
 
